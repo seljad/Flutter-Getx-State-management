@@ -1,16 +1,25 @@
-# shopping
+<img src="https://i.postimg.cc/g0dDFbQd/Screenshot-1634391218.png" height="300em" /> <img src="https://i.postimg.cc/yNPT7rCR/Screenshot-1634391265.png" height="300em" />
+<img src="https://i.postimg.cc/GtZFXWGW/Screenshot-1634391268.png" height="300em" /> <img src="https://i.postimg.cc/85zmcBT0/Screenshot-1634391308.png" height="300em" />
 
-A new Flutter project.
+### Created By Sajjad Javadi
+Email: SajjadJavadi28@gmail.com
+
+## Show some :heart: and star the repo to support the project
+
+# Flutter Shopping app example
+In this project I use [Getx](https://pub.dev/packages/get) for State management, [Dio](https://pub.dev/packages/dio) for HTTP client and [Hive](https://pub.dev/packages/hive) for the local database. Products api is for [fakestoreapi](https://github.com/keikaavousi/fake-store-api).
+This example learn you how to:
+- Setup getx and sizer in main.dart
+- Initializes hive and registers adapter in main.dart
+- Get data from server with dio and parse JSON to a list
+- Using getx to show data in listview and how to work with controller
+- Save product in cart with hive
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For help getting started with Flutter, view Flutter [documentation](https://flutter.dev/).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone the repository `git clone git@github.com:seljad/Flutter-Getx-State-management.git`
+- Navigate to cloned folder
+- Get packages using `flutter pub get`
+- Run `flutter run`
